@@ -1,0 +1,26 @@
+body{
+    background-color: #EEE;
+}
+
+input[type=text]{
+    padding: 10px;
+    font-size: 14;
+}
+
+.azul{
+    background-color: #00F;
+    color: #FFF;
+}
+
+.vermelho{
+    background-color: #F00;
+    color: #FFF;
+}
+
+.verde{
+    background-color: #0F0;
+}
+
+.oculto{
+    display: none;
+}
